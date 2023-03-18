@@ -1,3 +1,5 @@
+# You need to run npm start in terminal to open this. Live server/ just clicking on index.html doesnt work 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

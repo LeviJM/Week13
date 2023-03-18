@@ -11,3 +11,51 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+nav {
+  background-color:rgb(255, 232, 202) ;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: blue;
+}
+
+html {
+  background-color: rgb(222, 135, 42);
+}
+
+#root {
+  background-color: rgb(222, 135, 42);
+}
+
+.navbar-brand {
+  margin-left: 2%;
+}
+
+.menu {
+  margin-left: 50%;
+}
+
+.form-group {
+  width: 50%;
+}
+
+center {
+  margin-top: 25%;
+  margin-bottom: 25%;
+}
+
+.burgerform {
+  background-color: rgb(255, 232, 202);
+  width: 50%;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: blue;
+}
+
+h3 {
+  background-color: rgb(255, 232, 202);
+  width: 15%;
+  border-style: solid;
+  border-radius: 10px;
+  border-color:  blue;
+}
